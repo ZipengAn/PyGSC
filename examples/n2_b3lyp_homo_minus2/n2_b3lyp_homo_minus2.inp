@@ -1,0 +1,8 @@
+$qm
+method DFT
+func b3lyp
+basis N basis.6-31g
+charge 0
+mult 1
+shiftfukui 2
+end

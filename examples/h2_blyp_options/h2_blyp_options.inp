@@ -1,0 +1,10 @@
+$qm
+method DFT
+xfunc xb88
+cfunc clyp
+basis H basis.6-31g
+charge 0
+mult 1
+guess atom
+scfshift 0.2
+end
