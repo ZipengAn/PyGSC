@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright 2022-2026 An Zipeng
 # SPDX-License-Identifier: Apache-2.0
 
 """PyGSC: post-SCF perturbative correction of KS orbital energies."""
