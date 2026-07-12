@@ -258,9 +258,3 @@ The error/status file contains either a normal-completion message or a fatal-err
 | `diff_v_cnvg` | `1.0e-3` | TFQMR absolute convergence threshold |
 | `scf_max_cycle` | `200` | Maximum PySCF SCF cycles |
 | `grid_level` | `3` | PySCF numerical-integration grid level |
-
-<<<<<<< HEAD
-These values are defined in `GSCParams` in `gsc.py` and are not molecular-input keywords.
-=======
-These values are defined in `GSCParams` in `gsc.py` and are not molecular-input keywords.
->>>>>>> 7a3de25 (Remove source file copyright headers before publication)
