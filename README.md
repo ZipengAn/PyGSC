@@ -260,9 +260,3 @@ The error/status file contains either a normal-completion message or a fatal-err
 | `grid_level` | `3` | PySCF numerical-integration grid level |
 
 These values are defined in `GSCParams` in `gsc.py` and are not molecular-input keywords.
-
-## 9. License
-
-PyGSC is distributed under the Apache License, Version 2.0. See `LICENSE` for the complete terms.
-
-Copyright 2022–2026 An Zipeng.
